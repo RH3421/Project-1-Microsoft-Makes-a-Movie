@@ -8,3 +8,11 @@ Microsoft is a multinational technology company the develops and supports device
 
 Data Understanding, Preparation, and Analysis:
 To perform this analysis we sourced data from the IMDB and the Movie Budgets databases. 
+
+## Recommendations
+1) Microsoft should make an adventure movie, because is highest correlation with net earnings
+2) The Budget should be over 150 million.  A large budget is more correlated with worldwide gross than genre.
+3) Of actors or actresses who have been in adventure movies, XYZ have the highest net earnings
+
+# Future Extensions
+1) Look at the predictive earnings power of actors/actresses/directors
