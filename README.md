@@ -1,4 +1,4 @@
-# DS-Project-1
+# Project 1: Microsoft Makes a Movie
 
 Overview:
 In this analysis we answer and provide analysis for which property Microsoft should choose as its first movie as Microsoft launches their new movie studio.
