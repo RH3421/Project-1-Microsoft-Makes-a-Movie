@@ -1,7 +1,7 @@
 # Project 1: Microsoft Makes a Movie
 
 Overview:
-In this analysis we explore which video game franchise [Microsoft] (https://www.microsoft.com/en-us/) should produce as the first movie for their newly created movie studio following their massive $69 billion acquisition of [Activision Blizzard](https://www.activisionblizzard.com/content/atvi/activisionblizzard/ab-touchui/ab/web/en/home.html).
+In this analysis we explore which video game franchise [Microsoft](https://www.microsoft.com/en-us/) should produce as the first movie for their newly created movie studio following their massive $69 billion acquisition of [Activision Blizzard](https://www.activisionblizzard.com/content/atvi/activisionblizzard/ab-touchui/ab/web/en/home.html).
 
 Business Understanding:
 Microsoft is a multinational technology company the develops and supports devices, products, services, and solutions involving software. Prior to the development of their movie studio unit, this MARKETCAP company consisted of Productivity, and Business Processes, Intelligent Cloud, and More Personal Computing business units.
