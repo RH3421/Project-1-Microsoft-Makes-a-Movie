@@ -12,25 +12,21 @@ Microsoft is a multinational technology company that recently annouced a massive
 To perform this analysis we sourced data from the [IMDB](https://www.imdb.com/) and the [Numbers](https://www.the-numbers.com/movie/budgets) databases. We included films over a 10-year period from 2012 to 2021. 
 
 ## Methods
-Descriptive analysis was performed optimizing for net earnings (worldwide gross - production budget) examinig the association of movie genre, production budget and movie talent.
+Descriptive analyses were performed, optimizing for net earnings (worldwide gross - production budget) in examination of movie genre, production budget and movie talent.
 
 ## Results
 The adventure genre is most correlated with net earnings.
 ![alt text](https://github.com/Noptov/DS-Project-1/blob/main/images/gen_netearn_vert.png)
 Movie productions with a budget over $150 million correlated most closely with net earnings.
-![alt text](https://github.com/Noptov/DS-Project-1/blob/main/images/bud_netearn_vert.png)
 Top 5 talent brings in more than $1 billion in net earnings per film on average.
-![alt text](https://github.com/Noptov/DS-Project-1/blob/main/images/TopPerf_vert.png)
 
 ## Conclusions
 1) Microsoft should leverage the Activision Blizzard IP to make an adventure movie.
 2) The Budget should be over $150 million as big budgets mean big earnings.
-3) Microsoft should cast Ty Simpkins as ability to drive net earnings is unparalleled.
+3) Microsoft should cast Ty Simpkins as his ability to drive net earnings is unparalleled.
 
 ## Next Steps
 Incorporate movie rating and merchandise sales into earnings analysis.
 
 ## For More Information
 View the full analysis via the [Jupyter Notebook](https://github.com/Noptov/DS-Project-1/blob/main/MainDF.ipynb).
-
-## Repository Structure
