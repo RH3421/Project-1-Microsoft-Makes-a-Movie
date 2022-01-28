@@ -23,7 +23,7 @@ Top 5 talent brings in more than $1 billion in net earnings per film on average.
 ## Conclusions
 1) Microsoft should leverage the Activision Blizzard IP to make an adventure movie.
 2) The Budget should be over $150 million as big budgets mean big earnings.
-3) Microsoft should cast Ty Simpkins as ability to drive net earnings is unparalleled.
+3) Microsoft should cast Ty Simpkins as his ability to drive net earnings is unparalleled.
 
 ## Next Steps
 Incorporate movie rating and merchandise sales into earnings analysis.
