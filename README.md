@@ -12,7 +12,7 @@ Microsoft is a multinational technology company that recently annouced a massive
 To perform this analysis we sourced data from the [IMDB](https://www.imdb.com/) and the [Numbers](https://www.the-numbers.com/movie/budgets) databases. We included films over a 10-year period from 2012 to 2021. 
 
 ## Methods
-Descriptive analysis was performed optimizing for net earnings (worldwide gross - production budget) examinig the association of movie genre, production budget and movie talent.
+Descriptive analyses were performed, optimizing for net earnings (worldwide gross - production budget) in examination of movie genre, production budget and movie talent.
 
 ## Results
 The adventure genre is most correlated with net earnings.
