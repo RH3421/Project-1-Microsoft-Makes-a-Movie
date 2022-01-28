@@ -35,6 +35,7 @@ View the full analysis via the [Jupyter Notebook](https://github.com/Noptov/DS-P
 . <br>
 ├── data <br>
 ├── images <br>
-├── MS-Movie-Presentation.pdf <br>
+├── Github.pdf <br>
+├── Presentation.pdf <br>
 ├── MainDF.ipynb <br>
 └── README.md <br>
