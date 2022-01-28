@@ -18,9 +18,7 @@ Descriptive analysis was performed optimizing for net earnings (worldwide gross 
 The adventure genre is most correlated with net earnings.
 ![alt text](https://github.com/Noptov/DS-Project-1/blob/main/images/gen_netearn_vert.png)
 Movie productions with a budget over $150 million correlated most closely with net earnings.
-![alt text](https://github.com/Noptov/DS-Project-1/blob/main/images/bud_netearn_vert.png)
 Top 5 talent brings in more than $1 billion in net earnings per film on average.
-![alt text](https://github.com/Noptov/DS-Project-1/blob/main/images/TopPerf_vert.png)
 
 ## Conclusions
 1) Microsoft should leverage the Activision Blizzard IP to make an adventure movie.
