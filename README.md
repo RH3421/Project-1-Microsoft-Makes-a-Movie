@@ -4,11 +4,11 @@
 ## Overview:
 In this analysis we explored how [Microsoft](https://www.microsoft.com/en-us/) should produce the first movie for their newly created movie studio following their acquisition of [Activision Blizzard](https://www.activisionblizzard.com/content/atvi/activisionblizzard/ab-touchui/ab/web/en/home.html). Microsoft should use our recommendations to optimize movie production.
 
-## Business Understanding:
+## Business Understanding
 ![alt text](https://github.com/Noptov/DS-Project-1/blob/main/images/ATVI.jpeg)
 Microsoft is a multinational technology company that recently annouced a massive [$69 billion acquisition](https://www.cnbc.com/2022/01/18/microsoft-to-buy-activision.html) of Activision Blizzard. This acquisition brings a massive library of highly engaging intellectual property that is prime for movie production.
 
-## Data Understanding, Preparation, and Analysis:
+## Data Understanding, Preparation, and Analysis
 To perform this analysis we sourced data from the [IMDB](https://www.imdb.com/) and the [Numbers](https://www.the-numbers.com/movie/budgets) databases. We included films over a 10-year period from 2012 to 2021. 
 
 ## Methods
