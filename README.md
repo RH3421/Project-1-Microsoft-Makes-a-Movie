@@ -35,6 +35,7 @@ View the full analysis via the [Jupyter Notebook](https://github.com/Noptov/DS-P
 . <br>
 ├── data <br>
 ├── images <br>
+├── .gitignore <br>
 ├── Github.pdf <br>
 ├── MainDF.ipynb <br>
 ├── Presentation.pdf <br>
