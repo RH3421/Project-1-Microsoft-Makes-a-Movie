@@ -30,3 +30,11 @@ Incorporate movie rating and merchandise sales into earnings analysis.
 
 ## For More Information
 View the full analysis via the [Jupyter Notebook](https://github.com/Noptov/DS-Project-1/blob/main/MainDF.ipynb).
+
+##Repository Structure
+.
+├── data <br>
+├── images <br>
+├── MS-Movie-Presentation.pdf <br>
+├── MainDF.ipynb <br>
+└── README.md <br>
