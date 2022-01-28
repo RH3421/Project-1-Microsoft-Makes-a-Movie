@@ -1,10 +1,10 @@
 # Project 1: Microsoft Makes a Movie
-
+![alt text](https://github.com/Noptov/DS-Project-1/blob/main/images/Microsoft%20logo.png)
 ## Overview:
 In this analysis we explored which video game franchise [Microsoft](https://www.microsoft.com/en-us/) should produce as the first movie for their newly created movie studio following their massive [$69 billion acquisition](https://www.cnbc.com/2022/01/18/microsoft-to-buy-activision.html) of [Activision Blizzard](https://www.activisionblizzard.com/content/atvi/activisionblizzard/ab-touchui/ab/web/en/home.html). We performed descriptive analysis of movie data using [IMDB](https://www.imdb.com/) and the [Numbers](https://www.the-numbers.com/movie/budgets) databases. The Austin Animal Center can use this analysis to adjust outreach, hiring, and space utilization to improve resource allocation.
 
 ## Business Understanding:
-![alt text](https://github.com/Noptov/DS-Project-1/blob/main/images/microsoftgaming118_1920x1080.jpeg)
+![alt text](https://github.com/Noptov/DS-Project-1/blob/main/images/ATVI.jpeg)
 Microsoft is a multinational technology company the develops and supports devices, products, services, and solutions involving software. Prior to the development of their movie studio unit, this MARKETCAP company consisted of Productivity, and Business Processes, Intelligent Cloud, and More Personal Computing business units.
 
 ## Data Understanding, Preparation, and Analysis:
