@@ -1,6 +1,5 @@
 # Project 1: Microsoft Makes a Movie
 ![alt text](https://github.com/Noptov/DS-Project-1/blob/main/images/Microsoft%20logo.png)
-#### Authors: [Richard Hinds](https://github.com/RH3421) | [Will Norton](https://github.com/Noptov)
 
 ## Overview:
 In this analysis we explored how [Microsoft](https://www.microsoft.com/en-us/) can best produce their first movie in their newly created movie studio following their acquisition of [Activision Blizzard](https://www.activisionblizzard.com/content/atvi/activisionblizzard/ab-touchui/ab/web/en/home.html). Microsoft should use our recommendations to optimize movie production.
